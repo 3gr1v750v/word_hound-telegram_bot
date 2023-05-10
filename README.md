@@ -27,7 +27,7 @@
 1. Скопируйте репозиторий и перейдите в него в командной строке:
 
 ```
-git clone https://https://github.com/EugeniGrivtsov/word_hound-telegram_bot
+git clone https://https://github.com/3gr1v750v/word_hound-telegram_bot
 ```
 
 ```
